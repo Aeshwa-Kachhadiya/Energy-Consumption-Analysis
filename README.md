@@ -236,12 +236,3 @@ This project is available for educational, research, and commercial evaluation p
 
 ---
 
-## 🤝 Contributing & Feedback
-
-We welcome contributions, bug reports, and feature requests! Please open an issue or submit a pull request on GitHub.
-
-**Contact:** [GitHub Repository](https://github.com/cezanekarki/Energy-Consumption-Analysis)
-
----
-
-**Note:** This project demonstrates the application of advanced machine learning techniques to real-world energy management challenges, showcasing the intersection of data science, operational efficiency, and sustainability.
