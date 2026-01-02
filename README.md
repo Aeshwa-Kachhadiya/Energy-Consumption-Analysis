@@ -11,6 +11,8 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://energyconsumptiontimeseriesforecasting-hnshvkhbjnhr8zssvhwqvb.streamlit.app/)
 
+
+
 ---
 
 ## 🎯 Business Problems Solved & Key Analytical Questions
@@ -226,7 +228,7 @@ print(f"Predicted Load: {predicted_load[0]:.2f} kW")
 
 ## 👥 Project Team
 
-**Aeshwa Kachhadiya** • **Bimala Joshi** • **Cezane Karki** • **Moulya Reddygari Bhupal** • **Amey Tillu**
+**Aeshwa Kachhadiya** • **Moulya Reddygari Bhupal** • **Amey Tillu**
 
 ---
 
