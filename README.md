@@ -11,6 +11,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://energyconsumptiontimeseriesforecasting-hnshvkhbjnhr8zssvhwqvb.streamlit.app/)
 
+<img width="1743" height="877" alt="Energy_Comsumption_image" src="https://github.com/user-attachments/assets/368b1971-0d45-4836-b9a8-453adc42c99e" />
 
 
 ---
@@ -234,7 +235,6 @@ print(f"Predicted Load: {predicted_load[0]:.2f} kW")
 
 ## 📜 License & Usage
 
-This project is available for educational, research, and commercial evaluation purposes. For production deployment inquiries, please contact the project team.
-
+This project is available for educational, research, and commercial evaluation purposes. 
 ---
 
